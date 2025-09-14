@@ -1,0 +1,4 @@
+train: pothole600/pothole600/training/rgb
+val: pothole600/pothole600/validation/rgb
+nc: 1
+names: ["pothole"]
